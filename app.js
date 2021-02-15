@@ -1,44 +1,99 @@
 
-class Alligator {
+class Abra{
     constructor(
-        name = '',
+        type = '',
         color = '',
 ){
-    this.name = name;
+    this.type = type;
     this.color = color;
     }
 }
-let ally = new Alligator ("Snapper", "green");
+let ally = new Abra ("Psychic", "Yellow,Brown");
 
-class Buffalo {
+class Bulbasaur {
     constructor(
-        name = '',
+        type = '',
         color = '',
 ){
-    this.name = name;
+    this.type = type;
     this.color = color;
     }
 }
-let beast = new Buffalo ("Reiner", "Brown");
+let beast = new Bulbasaur ("Grass,Poison", "Green");
 
-class Canary {
+class Charmander {
     constructor(
-        name = '',
+        type = '',
         color = '',
 ){
-    this.name = name;
+    this.type = type;
     this.color = color;
     }
 }
-let bird = new Canary("George","Yellow")
+let fireBoi = new Charmander ("Fire","Orange")
 
-class Dolphin {
+class Dragonite {
     constructor(
-        name = '',
+        type = '',
         color = '',
 ){
-    this.name = name;
+    this.type = type;
     this.color = color;
     }
 }
-let seaCreature = new Dolphin ("","")
+let dragon = new Dragonite ("Dragon,Flying","Light-Orange")
+
+class Espeon {
+    constructor(
+        type = '',
+        color = '',
+){
+    this.type = type;
+    this.color = color;
+    }
+}
+let purpleCat = new Espeon ("Psychic","Lavender")
+
+class Flareon {
+    constructor(
+        type = '',
+        color = '',
+){
+    this.type = type;
+    this.color = color;
+    }
+}
+let fireCat = new Flareon ("Fire","Orange,Yellow")
+
+class Gengar {
+    constructor(
+        type = '',
+        color = '',
+){
+    this.type = type;
+    this.color = color;
+    }
+}
+let spook = new Gengar ("Ghost,Poison","Purple")
+
+class Hoppip {
+    constructor(
+        type = '',
+        color = '',
+){
+    this.type = type;
+    this.color = color;
+    }
+}
+let plantThing = new Hoppip ("Grass,Flying","Pink,Green")
+
+class Igglybuff {
+    constructor(
+        type = '',
+        color = '',
+){
+    this.type = type;
+    this.color = color;
+    }
+}
+let pinkPoff = new Igglybuff ("Normal,Fairy","Pink")
