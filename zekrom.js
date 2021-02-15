@@ -10,4 +10,4 @@ class Zekrom {
     this.color = color;
     }
 }
-let scaryDragon = new Zekrom ("Dragon,Electric","Black")
+let scaryDragon = new Zekrom ("Zekrom","Dragon,Electric","Black")
