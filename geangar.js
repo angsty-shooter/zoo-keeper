@@ -10,4 +10,4 @@ class Gengar {
     this.color = color;
     }
 }
-let spook = new Gengar ("Ghost,Poison","Purple")
+let spook = new Gengar ("Gengar","Ghost,Poison","Purple")

@@ -10,4 +10,4 @@ class Igglybuff {
     this.color = color;
     }
 }
-let pinkPoff = new Igglybuff ("Normal,Fairy","Pink")
+let pinkPoff = new Igglybuff ("Igglybuff","Normal,Fairy","Pink")

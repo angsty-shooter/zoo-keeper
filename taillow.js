@@ -10,4 +10,4 @@ class Taillow {
     this.color = color;
     }
 }
-let tinyBirb = new Taillow ("Normal,FLying","Red,White,Blue")
+let tinyBirb = new Taillow ("Taillow","Normal,FLying","Red,White,Blue")

@@ -10,4 +10,4 @@ class Quagsire {
     this.color = color;
     }
 }
-let bloop = new Quagsire ("Water,Ground","Blue")
+let bloop = new Quagsire ("Quagsire","Water,Ground","Blue")

@@ -10,4 +10,4 @@ class Vanillite {
     this.color = color;
     }
 }
-let iceCream = new Vanillite ("Ice","White,Blue")
+let iceCream = new Vanillite ("Vanillite","Ice","White,Blue")

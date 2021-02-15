@@ -10,4 +10,4 @@ class Hoppip {
     this.color = color;
     }
 }
-let plantThing = new Hoppip ("Grass,Flying","Pink,Green")
+let plantThing = new Hoppip ("Hoppip","Grass,Flying","Pink,Green")

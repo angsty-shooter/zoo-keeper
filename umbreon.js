@@ -10,4 +10,4 @@ class Umbreon {
     this.color = color;
     }
 }
-let darkCat = new Umbreon ("Dark","Black,Yellow")
+let darkCat = new Umbreon ("Umbreon","Dark","Black,Yellow")

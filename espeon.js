@@ -10,4 +10,4 @@ class Espeon {
     this.color = color;
     }
 }
-let purpleCat = new Espeon ("Psychic","Purple")
+let purpleCat = new Espeon ("Espeon","Psychic","Purple")

@@ -10,4 +10,4 @@ class Dragonite {
     this.color = color;
     }
 }
-let dragon = new Dragonite ("Dragon,Flying","Orange")
+let dragon = new Dragonite ("Dragonite","Dragon,Flying","Orange")

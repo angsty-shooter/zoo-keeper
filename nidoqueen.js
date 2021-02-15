@@ -10,4 +10,4 @@ class Nidoqueen {
     this.color = color;
     }
 }
-let scaryRhino = new Nidoqueen ("Poison,Ground","Blue,Yellow")
+let scaryRhino = new Nidoqueen ("Nidoqueen","Poison,Ground","Blue,Yellow")

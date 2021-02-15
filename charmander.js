@@ -10,4 +10,4 @@ class Charmander {
     this.color = color;
     }
 }
-let fireBoi = new Charmander ("Fire","Orange")
+let fireBoi = new Charmander ("Charmander","Fire","Orange")

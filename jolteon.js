@@ -10,4 +10,4 @@ class Jolteon {
     this.color = color;
     }
 }
-let sparkCat = new Jolteon ("Electric","Yellow,White")
+let sparkCat = new Jolteon ("Jolteon","Electric","Yellow,White")

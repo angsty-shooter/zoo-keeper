@@ -10,4 +10,4 @@ class Pangoro {
     this.color = color;
     }
 }
-let panda = new Pangoro ("Fighting,Dark","White,Black")
+let panda = new Pangoro ("Pangoro","Fighting,Dark","White,Black")

@@ -10,4 +10,4 @@ class Onix {
     this.color = color;
     }
 }
-let rockSnek = new Onix ("Rock,Ground","Gray")
+let rockSnek = new Onix ("Onix","Rock,Ground","Gray")

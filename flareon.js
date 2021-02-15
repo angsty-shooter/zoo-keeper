@@ -10,4 +10,4 @@ class Flareon {
     this.color = color;
     }
 }
-let fireCat = new Flareon ("Fire","Orange,Yellow")
+let fireCat = new Flareon ("Espeon","Fire","Orange,Yellow")

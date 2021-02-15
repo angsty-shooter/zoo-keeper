@@ -10,4 +10,4 @@ class Yveltal {
     this.color = color;
     }
 }
-let yBoi = new Yveltal ("Dark,Flying","Black,Red")
+let yBoi = new Yveltal ("Yveltal","Dark,Flying","Black,Red")

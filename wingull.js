@@ -10,4 +10,4 @@ class Wingull {
     this.color = color;
     }
 }
-let seaBird = new Wingull ("Water,Flying","White,Blue")
+let seaBird = new Wingull ("Wingull","Water,Flying","White,Blue")

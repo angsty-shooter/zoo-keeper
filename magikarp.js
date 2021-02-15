@@ -10,4 +10,4 @@ class Magikarp {
     this.color = color;
     }
 }
-let uselessFish = new Magikarp ("Water","Orange,Yellow")
+let uselessFish = new Magikarp ("Magikarp","Water","Orange,Yellow")

@@ -10,4 +10,4 @@ class Raichu {
     this.color = color;
     }
 }
-let sparkMouse = new Raichu ("Electric","Orange,Yellow,Black")
+let sparkMouse = new Raichu ("Raichu","Electric","Orange,Yellow,Black")

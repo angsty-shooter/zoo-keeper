@@ -10,4 +10,4 @@ class Klink {
     this.color = color;
     }
 }
-let gears = new Klink ("Steel","Gray")
+let gears = new Klink ("Klink","Steel","Gray")

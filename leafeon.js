@@ -10,4 +10,4 @@ class Leafeon {
     this.color = color;
     }
 }
-let leafCat = new Leafeon ("Grass","Green,Yellow")
+let leafCat = new Leafeon ("Leafeon","Grass","Green,Yellow")

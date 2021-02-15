@@ -10,4 +10,4 @@ class Bulbasaur {
     this.color = color;
     }
 }
-let beast = new Bulbasaur ("Grass,Poison","Green");
+let beast = new Bulbasaur ("Bulbasaur","Grass,Poison","Green");

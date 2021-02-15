@@ -10,4 +10,4 @@ class Scizor {
     this.color = color;
     }
 }
-let bigBug = new Scizor ("Bug,Steel","Red,Black")
+let bigBug = new Scizor ("Scizor","Bug,Steel","Red,Black")

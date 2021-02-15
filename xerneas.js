@@ -10,4 +10,4 @@ class Xerneus {
     this.color = color;
     }
 }
-let magicElk = new Xerneus ("Fairy","Black,Blue,Yellow")
+let magicElk = new Xerneus ("Xerneus","Fairy","Black,Blue,Yellow")
