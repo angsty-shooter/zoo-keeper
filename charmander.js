@@ -11,3 +11,4 @@ class Charmander {
     }
 }
 let fireBoi = new Charmander ("Charmander","Fire","Orange")
+
