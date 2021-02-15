@@ -8,7 +8,7 @@ class Abra{
     this.color = color;
     }
 }
-let ally = new Abra ("Psychic", "Yellow,Brown");
+let ally = new Abra ("Psychic","Yellow,Brown");
 
 class Bulbasaur {
     constructor(
@@ -19,7 +19,7 @@ class Bulbasaur {
     this.color = color;
     }
 }
-let beast = new Bulbasaur ("Grass,Poison", "Green");
+let beast = new Bulbasaur ("Grass,Poison","Green");
 
 class Charmander {
     constructor(
@@ -41,7 +41,7 @@ class Dragonite {
     this.color = color;
     }
 }
-let dragon = new Dragonite ("Dragon,Flying","Light-Orange")
+let dragon = new Dragonite ("Dragon,Flying","Orange")
 
 class Espeon {
     constructor(
@@ -52,7 +52,7 @@ class Espeon {
     this.color = color;
     }
 }
-let purpleCat = new Espeon ("Psychic","Lavender")
+let purpleCat = new Espeon ("Psychic","Purple")
 
 class Flareon {
     constructor(
@@ -97,3 +97,47 @@ class Igglybuff {
     }
 }
 let pinkPoff = new Igglybuff ("Normal,Fairy","Pink")
+
+class Jolteon {
+    constructor(
+        type = '',
+        color = '',
+){
+    this.type = type;
+    this.color = color;
+    }
+}
+let sparkCat = new Jolteon ("Electric","Yellow,White")
+
+class Klink {
+    constructor(
+        type = '',
+        color = '',
+){
+    this.type = type;
+    this.color = color;
+    }
+}
+let gears = new Klink ("Steel","Gray")
+
+class Leafeon {
+    constructor(
+        type = '',
+        color = '',
+){
+    this.type = type;
+    this.color = color;
+    }
+}
+let leafCat = new Leafeon ("Grass","Green,Yellow")
+
+class Magikarp {
+    constructor(
+        type = '',
+        color = '',
+){
+    this.type = type;
+    this.color = color;
+    }
+}
+let uselessFish = new Magikarp ("Water","Orange,Yellow")
